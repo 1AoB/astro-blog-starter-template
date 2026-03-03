@@ -1,3 +1,7 @@
+# DeepWiki
+
+https://deepwiki.com/1AoB/astro-blog-starter-template
+
 # Worker + D1 Database
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/d1-template)
